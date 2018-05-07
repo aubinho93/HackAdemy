@@ -1,4 +1,4 @@
-# XSS (c'est le feu! ^_^ Lol)
+# XSS (c'est du balaise!! ^_^ Lol)
 
 ## Champ lexical
 
